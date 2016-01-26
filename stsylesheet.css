@@ -1,0 +1,12 @@
+h1 {
+	color: pink;
+	font-family: Verdana;
+	
+}
+.picture {
+	position: relative;
+	width: 20%;
+	height: 20%;
+	top: 80px;
+	left: 300px;
+}
