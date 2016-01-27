@@ -1,12 +1,78 @@
 h1 {
 	color: pink;
-	font-family: Verdana;
-	
+	font-family: bebas neue;
+	left: 20px;
+	position: relative;
+	letter-spacing: 5px;
+}
+h2 {
+	color: grey;
+	font-size: 200px;
+	font-family: sans-serif;
+	left: 20px;
+	top:-30px;
+	position: relative;
+}
+a:link {
+    color: red;
+}
+
+a:visited {
+    color: grey;
+}
+
+a.highlight:hover {
+	color:blue;
+}
+
+
+a:active {
+    color: blue;
+}
+
+h3 {
+	color: black;
+	font-size: 100px;
+	font-family: sans-serif;
+	left: 20px;
+	position: relative;
+}
+.classes:hover {
+	color: hotpink;
+}  
+
+.intro {
+	position: relative;
+	margin-left: 150px;
 }
 .picture {
 	position: relative;
 	width: 20%;
 	height: 20%;
+	top: 20px;
+	left: 300px;
+	margin-bottom: 30px;
+}
+.h2o {
+	position: relative;
+	width: 20%;
+	height: 20%;
+	top: 20px;
+	left: 300px;
+	margin-bottom: 30px;
+}
+.concrete {
+	position: relative;
+	width: 350px;
+	height: 350 px;
 	top: 80px;
 	left: 300px;
+
+}
+.marble {
+	position: relative;
+	width: 350px;
+	height: 350px;
+	top: 80px;
+	left: 320px;
 }
